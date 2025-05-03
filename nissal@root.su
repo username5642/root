@@ -18,9 +18,9 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      ROOT ACESS INSTALLER"
-  echo "#"                                     [ Type Su To Get Started ]
-  echo "#                                    "Maded By Nissalop2 COpyRight (C) By Nissalop2"
+  echo "#                                      Nissalop2 INSTALLER"
+  echo "#"
+  echo "#                           Copyright (C) 2025, Nissalop2"
   echo "#"
   echo "#"
   echo "#######################################################################################"
