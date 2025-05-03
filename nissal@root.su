@@ -73,7 +73,9 @@ RESET_COLOR='\e[0m'
 display_gg() {
   echo -e "${WHITE}___________________________________________________${RESET_COLOR}"
   echo -e ""
-  echo -e "           ${CYAN}-----> Mission Completed ! <----${RESET_COLOR}"
+  echo -e "           ${GREEN}-----> ROOT ACESS GRANTED  <----${RESET_COLOR}"
+  echo -e "                         [MADED BY NISSALOP2]"
+  echo -e "                      ---> Type Su to Get Started <-----"
 }
 
 clear
