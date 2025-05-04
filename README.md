@@ -1,7 +1,13 @@
 # GITCLONE
-**https://github.com/username5642/root.git**
+```https://github.com/username5642/root.git```
 # CD
-**cd root**
+```cd root```
 # GET ROOT
-**bash nissal@root.su**
+```bash nissal@root.su```
 
+**THIS CODE GIVE YOU ROOT ACESS **
+**IF YOUR VPS DON'T SUPPORT [ APT ACESS ] **
+**YOU CAN GET ROOT@vps **
+
+
+** ENJOYY...**
